@@ -2,11 +2,11 @@
 
 # Ignite | Desafio da Rocketseat
 
-#### Uma mini aplicação de rede social para compartilhar tarefas e aplaudir publicações.
+#### Uma mini aplicação de rede social para compartilhar comentários e aplaudir publicações.
 
 ## Descrição
 
-Neste projeto, desenvolvido como parte de um desafio do programa Ignite da Rocketseat, os usuários podem adicionar tarefas com o nome do autor e uma descrição de cargo. Outros usuários podem ver o nome e o cargo de quem publicou a tarefa, promovendo uma interação social básica.
+Neste projeto, desenvolvido como parte de um desafio do programa Ignite da Rocketseat, os usuários podem adicionar comentários e aplaudir publicações. Outros usuários podem ver o nome e o cargo de quem publicou a tarefa, promovendo uma interação social básica.
 
 ## Funcionalidades
 
